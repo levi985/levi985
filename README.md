@@ -10,26 +10,41 @@ Sou um entusiasta da tecnologia e atualmente estou cursando Ciência da Computa�
 - 🌱 Estou sempre aprendendo e buscando melhorar minhas habilidades.
 
 ## Linguagens e Ferramentas
+ <div style="flex-basis: 48%;">
+<!--![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)-->
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+     <img align="center" alt="VScode" height="30" width="40" src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png">
+ </div> <br>
+     
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+###
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
-## Projetos
+
+<!--  ## Projetos
 
 ### Clone do Spotify
-Um clone do Spotify que desenvolvi durante meu curso técnico. Este projeto foi uma excelente oportunidade para aprimorar minhas habilidades em JavaScript.
+Um clone do Spotify que desenvolvi durante meu curso técnico. Este projeto foi uma excelente oportunidade para aprimorar minhas habilidades em JavaScript.-->
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  <!-- Substitua com o link real -->
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/levi985)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  <!-- Substitua com o link real -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](henriquelevi91@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lh_salles3/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581992207714)
 
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=levi985&show_icons=true&theme=radical)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=levi985&layout=compact&theme=radical)
+
+## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s3anrmahllh44lzkpfw2lk3ahu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Adicione mais seções conforme necessário -->
