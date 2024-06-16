@@ -32,8 +32,7 @@ Sou um entusiasta da tecnologia e atualmente estou cursando Ciência da Computa�
 
 <!--  ## Projetos
 
-### Clone do Spotify
-Um clone do Spotify que desenvolvi durante meu curso técnico. Este projeto foi uma excelente oportunidade para aprimorar minhas habilidades em JavaScript.-->
+###-->
 
 ## Conecte-se Comigo
 
@@ -44,10 +43,9 @@ Um clone do Spotify que desenvolvi durante meu curso técnico. Este projeto foi 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=levi985&show_icons=true&theme=radical)
+<!--![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=levi985&show_icons=true&theme=radical)-->
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=levi985&layout=compact&theme=radical)
 
 ## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s3anrmahllh44lzkpfw2lk3ahu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-<!-- Adicione mais seções conforme necessário -->
