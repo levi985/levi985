@@ -25,9 +25,10 @@ Sou um entusiasta da tecnologia e atualmente estou cursando CiÃªncia da ComputaÃ
      
 
 ###
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+<p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+ </p>
+<br><br>
 
 
 <!--  ## Projetos
