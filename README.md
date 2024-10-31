@@ -34,14 +34,13 @@ Sou um entusiasta da tecnologia e atualmente estou cursando Ciência da Computa�
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=levi985&show_icons=true&theme=radical)
 <br><br>
 
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=levi985&layout=compact&theme=radical)
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levi985/levi985/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levi985/levi985/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/levi985/levi985/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=levi985&layout=compact&theme=radical)
-
-## [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s3anrmahllh44lzkpfw2lk3ahu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
