@@ -10,7 +10,7 @@ Sou um entusiasta da tecnologia e atualmente estou cursando Ciência da Computa�
 - 🌱 Estou sempre aprendendo e buscando melhorar minhas habilidades.
 
 ## Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,linux,git,docker,mysql,bash)](https://github.com/levi985)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,linux,git,docker,mysql,bash,bsd)](https://github.com/levi985)
  <div style="flex-basis: 48%;">
       <br> 
 
