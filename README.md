@@ -4,7 +4,7 @@ Sou um entusiasta da tecnologia e atualmente estou cursando Ciência da Computa�
 
 ## Sobre Mim
 
-- 🎓 Atualmente estou no Terceiro período de Ciência da Computação.
+- 🎓 Atualmente estou no Sexto período de Ciência da Computação.
 - 📜 Tenho um curso técnico em Desenvolvimento de Sistemas.
 - 💻 Gosto de desenvolver projetos usando Python, JavaScript, CSS e HTML.
 - 🌱 Estou sempre aprendendo e buscando melhorar minhas habilidades.
